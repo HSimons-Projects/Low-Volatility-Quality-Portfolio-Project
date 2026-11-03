@@ -17,10 +17,10 @@
 ![Growth of $1, 10 years](portfolioperformance10y.png)
 - [Image 1: 10-year cumulative growth, all four portfolios against VTI and USMV (low volatility quality stock baseline)]
 
-![Growth of $1, 5 years](images/portfolioperformance5y.png)
+![Growth of $1, 5 years](portfolioperformance5y.png)
 - [Image 2: 5-year cumulative growth, same lines]
 
-![Drawdowns, 10 years](images/drawdowns10y.png)
+![Drawdowns, 10 years](drawdowns10y.png)
 
 ## Screening criteria
 
