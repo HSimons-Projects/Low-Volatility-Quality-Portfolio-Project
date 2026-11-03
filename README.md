@@ -72,8 +72,8 @@
 | T-Mobile US, Inc.               |   0.018  |
 | TOTALENERGIES                   |   0.0654 |
 | Waste Management, Inc.          |   0.0623 |
-![Portfolio weights](images/weights.png)
-- [Image 4: bar chart of the final bounded weights, with company names instead of tickers]
+![Portfolio weights](weightsportfolio.png)
+- [Image 4: bar chart of the final bounded weights, with company names]
 
 ## Key findings
 
