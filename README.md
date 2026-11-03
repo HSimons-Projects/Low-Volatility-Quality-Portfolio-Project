@@ -43,6 +43,35 @@
 - Compared against an equal-weight portfolio, an unconstrained GMV portfolio and VTI
 - Tested over 5-year and 10-year samples
 
+| Ticker                          |   Weight |
+|:--------------------------------|---------:|
+| SAP SE SAP ORD SHS              |   0.0123 |
+| ROCHE HOLDING AG ROCHE HOLDING  |   0.0631 |
+| TOYOTA MOTOR CORP               |   0.0123 |
+| Apple Inc.                      |   0.0123 |
+| Automatic Data Processing, Inc. |   0.0273 |
+| Agnico Eagle Mines Limited      |   0.0123 |
+| AMETEK, Inc.                    |   0.0417 |
+| AstraZeneca PLC                 |   0.0123 |
+| Berkshire Hathaway Inc. New     |   0.0948 |
+| AXA                             |   0.0707 |
+| Cisco Systems, Inc.             |   0.0241 |
+| HSBC Holdings PLC               |   0.0171 |
+| International Business Machines |   0.0123 |
+| IMI PLC ORD 28 4/7P             |   0.0319 |
+| Lockheed Martin Corporation     |   0.0328 |
+| Microsoft Corporation           |   0.0436 |
+| Motorola Solutions, Inc.        |   0.0199 |
+| Newmont Corporation             |   0.0123 |
+| Novartis AG                     |   0.0336 |
+| Pepsico, Inc.                   |   0.051  |
+| Procter & Gamble Company (The)  |   0.0901 |
+| SAFRAN                          |   0.0123 |
+| Shell PLC                       |   0.0781 |
+| AT&T Inc.                       |   0.036  |
+| T-Mobile US, Inc.               |   0.018  |
+| TOTALENERGIES                   |   0.0654 |
+| Waste Management, Inc.          |   0.0623 |
 ![Portfolio weights](images/weights.png)
 - [Image 4: bar chart of the final bounded weights, with company names instead of tickers]
 
